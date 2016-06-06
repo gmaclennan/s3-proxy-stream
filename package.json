@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": "jonathanong/s3-proxy-stream",
   "dependencies": {
+    "any-promise": "^1.1.0",
     "debug": "^2.2.0"
   },
   "devDependencies": {
-    "any-promise": "^1.1.0",
     "aws-sdk": "^2.2.41",
     "babel-eslint": "^6.0.0",
     "codecov": "^1.0.0",
